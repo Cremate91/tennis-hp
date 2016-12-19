@@ -356,7 +356,7 @@ var environment = {
 /***/ 939:
 /***/ function(module, exports) {
 
-module.exports = "#section0 {\r\n    width: 100%;\r\n    background-size: cover;\r\n    background: url(\"/assets/img/tennis0.jpg\") no-repeat fixed center;\r\n}"
+module.exports = "#section0 {\r\n    width: 100%;\r\n    background-size: cover;\r\n    background: url(\"./assets/img/tennis0.jpg\") no-repeat fixed center;\r\n}"
 
 /***/ },
 
